@@ -42,7 +42,7 @@
 						<environment>${env}</environment>
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
-							<http.port>${http}</http.port>
+							<s.port>${http}</s.port>
 							<env>${env}</env>
 						</properties>
 					</cloudHubDeployment>
